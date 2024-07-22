@@ -2,6 +2,8 @@
 
 ## **Email Format**
 
+ ## Send ID:- ```support@qwiklabs.com```
+
  ### Subject Line :- ```Incorrect Arcade Points in Prize Counter Email```
 
  ### Email Content :- 
