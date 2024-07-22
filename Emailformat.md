@@ -2,7 +2,7 @@
 
 ## **Email Format**
 
- ### Subject Line :- ``` Incorrect Arcade Points in Prize Counter Email ```
+ ### Subject Line :- ```Incorrect Arcade Points in Prize Counter Email```
 
  ### Email Content :- 
 
